@@ -1,7 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:5F0080,100:FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FD9500,100:FFFFFF)
 
 
-# 🦁 멋쟁이사자처럼 프론트엔드스쿨 4기 리액트 프로젝트 3조
+# 🦁 멋쟁이사자처럼 프론트엔드스쿨 4기 파킹 리액트 🚗
 > Since 2023.03.05
 
 
@@ -24,4 +24,4 @@
   </a>
 </p>
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:5F0080)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:FFFFFF,100:FD9500)
