@@ -19,8 +19,8 @@
   <a href="https://github.com/eeeyooon">
     <img src="https://github.com/eeeyooon.png" width="100">
   </a>
-  <a href="https://github.com/">
-    <img src="https://github.com/.png" width="100">
+  <a href="https://github.com/choinamechoi">
+    <img src="https://github.com/choinamechoi.png" width="100">
   </a>
 </p>
 
